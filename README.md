@@ -24,3 +24,5 @@ Use [`templates/paper-notes.md`](templates/paper-notes.md) when adding a new pap
 ## PDF policy
 
 This repository stores article PDFs only when the publisher or authors provide an open license that permits redistribution. For other papers, include a DOI or publisher link instead of committing the PDF.
+
+Repository-authored materials are covered by the repository license. Included papers and other third-party materials retain their original copyrights and licenses; see [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).
