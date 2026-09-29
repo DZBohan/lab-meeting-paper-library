@@ -6,6 +6,7 @@ A searchable collection of papers discussed in lab meetings, together with conci
 
 | Added | Paper | Journal | Topic | Materials |
 |---|---|---|---|---|
+| 2026-09-29 | [Calonaci et al. — Gene mutant dosage in 60,000 clinical cancer samples](papers/2026-calonaci-gene-mutant-dosage/) | *Nature Genetics* (2026) | Mutation copy number and multiplicity from tumor-only panels (INCOMMON); prognosis and metastatic tropism | [Notes](papers/2026-calonaci-gene-mutant-dosage/README.md) · [Citation](papers/2026-calonaci-gene-mutant-dosage/citation.bib) · [PDF](papers/2026-calonaci-gene-mutant-dosage/paper.pdf) |
 | 2026-09-15 | [Pekel et al. — Universal colorectal cancer microbiome signatures](papers/2026-pekel-crc-microbiome/) | *Cell Host & Microbe* (2026) | Early- versus late-onset colorectal cancer; microbiome meta-analysis | [Notes](papers/2026-pekel-crc-microbiome/README.md) · [Citation](papers/2026-pekel-crc-microbiome/citation.bib) · [PDF](papers/2026-pekel-crc-microbiome/paper.pdf) |
 
 ## Organization
